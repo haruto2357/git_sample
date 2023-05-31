@@ -4,3 +4,4 @@ dif = a - b
 
 print(dif)
 print(b)
+print(a)
