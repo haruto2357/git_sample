@@ -3,3 +3,4 @@ b = 3
 dif = a - b
 
 print(dif)
+print(a)
